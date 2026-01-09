@@ -1,7 +1,9 @@
-### Dilley et al. 2025 R Project
+#### Dilley et al. 2025 R Project
 This is a repository made to make available the R code, figures, and analyses for the Dilley et al. 2025 submitted publication.  This repository provides reviewers and potential future collaborators code and associated analyses to inspect and validate the results of this manuscript.  The author recommends to open the project and then knit the script as an "html" output to see the full summary of study analyses with collapsible sections.
 
 Downloading the entire repository (Dilley et al. 2025 R Project Repository) with all contained files and opening up the associated R project file (Dilley et al. 2025 R Project) will allow users to operate the script.  This will apply regardless of where the repository folder is located on the user's computer.
+
+To open up the R Markdown generated html file in your web browser, unzip "Dilley-et-al.-2025_PeerJ_Final.html.zip".  This will provide an entire interactive document with all results from the R Markdown script.
 
 If within the repository folder the R Markdown doesn't open within the R Project file, open the R Markdown file and it will remain each time you open the project file in the future.
 
